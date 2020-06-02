@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/library-app-react/static/css/main.226ebbf0.chunk.css",
+    "main.js": "/library-app-react/static/js/main.497f80eb.chunk.js",
+    "main.js.map": "/library-app-react/static/js/main.497f80eb.chunk.js.map",
+    "runtime-main.js": "/library-app-react/static/js/runtime-main.3d7492c5.js",
+    "runtime-main.js.map": "/library-app-react/static/js/runtime-main.3d7492c5.js.map",
+    "static/js/2.1dee5b28.chunk.js": "/library-app-react/static/js/2.1dee5b28.chunk.js",
+    "static/js/2.1dee5b28.chunk.js.map": "/library-app-react/static/js/2.1dee5b28.chunk.js.map",
+    "index.html": "/library-app-react/index.html",
+    "precache-manifest.cc35af9db03f95036063c4c869a9d0d1.js": "/library-app-react/precache-manifest.cc35af9db03f95036063c4c869a9d0d1.js",
+    "service-worker.js": "/library-app-react/service-worker.js",
+    "static/css/main.226ebbf0.chunk.css.map": "/library-app-react/static/css/main.226ebbf0.chunk.css.map",
+    "static/js/2.1dee5b28.chunk.js.LICENSE.txt": "/library-app-react/static/js/2.1dee5b28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d7492c5.js",
+    "static/js/2.1dee5b28.chunk.js",
+    "static/css/main.226ebbf0.chunk.css",
+    "static/js/main.497f80eb.chunk.js"
+  ]
+}
